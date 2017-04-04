@@ -1,0 +1,13 @@
+/bin/
+
+# Created by https://www.gitignore.io/api/windows,eclipse,java
+
+### Eclipse ###
+
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
